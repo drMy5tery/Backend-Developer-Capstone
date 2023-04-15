@@ -38,7 +38,9 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'restaurant',
+    'restaurant.tests',
     'rest_framework',
+    'rest_framework.authtoken',
     'djoser',
 ]
 
@@ -151,3 +153,5 @@ REST_FRAMEWORK = {
 DJOSER = {
 "USER_ID_FIELD": "username"
 }
+
+#TEST_DISCOVER_PATTERN = "test"
