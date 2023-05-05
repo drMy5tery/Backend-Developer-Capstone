@@ -1,2 +1,3 @@
-# Backend-Developer-Capstone
-Final Capstone Project of Meta-Backend-Developer course
+# Restaurant-Booking_API
+
+A Simple Backend  Booking api for a restaurant using django
